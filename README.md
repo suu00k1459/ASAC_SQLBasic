@@ -1,2 +1,3 @@
-# ASAC_SQLBasic
-mySQL  기초
+# Contents
+This is what I learned about mySQL concepts while taking ASAC_SQLBasic.
+

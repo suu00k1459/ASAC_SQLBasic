@@ -1,5 +1,5 @@
 ---
-title: "Web page - Look around the HTML"
+title: "Sticker shop Web page - Look around the HTML"
 seoTitle: "make the webpage"
 seoDescription: "Learn to create a small website using HTML templates and practice basic HTML and CSS for data analysis understanding and communication"
 datePublished: Sun Jan 12 2025 02:22:19 GMT+0000 (Coordinated Universal Time)

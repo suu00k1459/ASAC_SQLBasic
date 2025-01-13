@@ -10,15 +10,17 @@ tags: docker, error-handling, docker-images, docker-pull
 
 I have to use the docker in mac because oracle is not working in macOS.
 
-## My wrong code :
+But I have a problem with install image in docker.
+
+## My wrong code
 
 docker pull oracledb19c/oracle.19.3.0-ee
 
-## What is wrong :
+## What is wrong
 
 I didn’t check the detail tag of it.
 
-## How to fix the error :
+## How to fix the error
 
 1. Enter the docker hub : [https://hub.docker.com/r/oracledb19c/oracle.19.3.0-ee/tags](https://hub.docker.com/r/oracledb19c/oracle.19.3.0-ee/tags)
     
@@ -27,3 +29,8 @@ I didn’t check the detail tag of it.
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736701515206/8e8563bb-9e25-4f4c-8056-f39d3abe7a80.png align="center")
     
 3. Copy the code and put in your terminal
+    
+
+---
+
+Thank you.
